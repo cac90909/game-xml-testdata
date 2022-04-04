@@ -1,0 +1,46 @@
+{
+    "pinholeReport":{
+        "outof100":{
+            "compounded":0.2631578947368421
+        }
+    },
+    "moveStatus":{
+        "s_DM_SubPurpose":0,
+        "discAtParkerStation":0,
+        "s_DM_Purpose_Last":2,
+        "MotionStatusValue":2,
+        "s_DM_timeout":0,
+        "s_RunwayLightTimer":2.774999999999994,
+        "MotionStatusString":"s_DM_MotionStatus_Complete_OK",
+        "s_DM_SubState":0,
+        "s_RunwayLightSubMode":1,
+        "LastMoveStatusString":"s_DM_DiscBringIn",
+        "MoveStatusString":"s_DM_NotActive",
+        "s_DM_CountDown":0,
+        "MoveStatusValue":0,
+        "s_RunwayLightMode":0,
+        "s_DM_passes":257
+    },
+    "barcodeReport":{
+        "scanResultMessage":"ok",
+        "scanNumber":489,
+        "scanTime":9.903,
+        "imageTaken":1,
+        "scanResult":0,
+        "scanInProgress":"No",
+        "barcodes":[
+            {
+                "bars_wide":49.03846153846154,
+                "direction":"forward",
+                "barcode":"*00000053-SL*",
+                "encoding":"CD39",
+                "bars_narrow":16.435897435897434,
+                "barWidth":"CD39, 34/34",
+                "colorSettings":"00_01 Tall Inverted 1",
+                "sense":"non-inverted",
+                "debug":"",
+                "bits":""
+            }
+        ]
+    }
+}
